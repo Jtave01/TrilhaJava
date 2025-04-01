@@ -9,6 +9,9 @@ public class depuracao {
         concatenaco = 1+1+"1"+1+1;
 
         System.out.println(concatenaco);
+
+        concatenaco = 1+"1"+1+"1";
+        System.out.println(concatenaco);
     }
 
     
