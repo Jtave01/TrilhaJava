@@ -22,6 +22,7 @@ public class formatadorCep {
         } catch (CepinvalidoException e) {
             System.out.println("o cepe nao coresponde");
         }
+        scanner.close();
         
     }
     
