@@ -14,7 +14,7 @@ public class CondTernaria {
 
         scanner.close();
         //Condição ternaria 
-        String resultado = Nota.nota >= 7 ? "aprovado" : Nota.nota >=5 &&  Nota.nota <7 ?  "recuperação" : "reprovado";
+        String resultado = Nota.nota >= 7 ? "aprovado" : Nota.nota >=5 &&  Nota.nota <7 ?  "recuperação" : "Reprovado";
 
        System.out.println(resultado);
     }
