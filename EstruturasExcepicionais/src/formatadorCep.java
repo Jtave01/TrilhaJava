@@ -1,16 +1,7 @@
 import java.util.Scanner;
 public class formatadorCep {
 
-    static String formatarCep(String nomeCep) throws CepinvalidoException{
-        //se cep tiver mais que 8 linhas lança uma exececao 
-        if(nomeCep.length() != 8)
-            throw new CepinvalidoException();
-                //substrating = recorta pedaços de uma string 
-        return nomeCep.substring(0,2) + "." + nomeCep.substring(2,5) + "-" + nomeCep.substring(5);
-        
-        
-
-    }
+  
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
@@ -24,6 +15,17 @@ public class formatadorCep {
         }
         scanner.close();
         
+    }
+
+      static String formatarCep(String nomeCep) throws CepinvalidoException{
+        //se cep tiver mais que 8 linhas lança uma exececao 
+        if(nomeCep.length() != 8)
+            throw new CepinvalidoException();
+                //substrating = recorta pedaços de uma string 
+        return nomeCep.substring(0,2) + "." + nomeCep.substring(2,5) + "-" + nomeCep.substring(5);
+        
+        
+
     }
     
 }

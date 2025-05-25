@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Debugging/Debugging.iml" filepath="$PROJECT_DIR$/Debugging/Debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasExcepicionais/EstruturasExcepicionais.iml" filepath="$PROJECT_DIR$/EstruturasExcepicionais/EstruturasExcepicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasRep/EstruturasRep.iml" filepath="$PROJECT_DIR$/EstruturasRep/EstruturasRep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/TerminalArgs/TerminalArgs.iml" filepath="$PROJECT_DIR$/java_anatomia/TerminalArgs/TerminalArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrilhaJava.iml" filepath="$PROJECT_DIR$/.idea/TrilhaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/escopo/escopo.iml" filepath="$PROJECT_DIR$/java_anatomia/escopo/escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas_cond/estruturas_cond.iml" filepath="$PROJECT_DIR$/estruturas_cond/estruturas_cond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/java_anatomia.iml" filepath="$PROJECT_DIR$/java_anatomia/java_anatomia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/javadoc/javadoc.iml" filepath="$PROJECT_DIR$/java_anatomia/javadoc/javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/operadores/operadores.iml" filepath="$PROJECT_DIR$/java_anatomia/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_anatomia/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/java_anatomia/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>

@@ -32,7 +32,7 @@ public class PlanoOperadora {
         default:
         System.out.println("Indefinido");
 
-
+        scanner.close();
     }
 
 
